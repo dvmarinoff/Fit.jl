@@ -9,15 +9,12 @@ begin
 	# - Download Julia from https://julialang.org/downloads/
 	# - Install Julia
 	# - Run Julia
-	# In the julia repl run:
+	# In the Julia REPL run:
 	# $ ] (to enter Pkg mode)
 	# $ add Pluto
 	# $ (backspace to go back)
 	# $ import Pluto
 	# $ Pluto.run()
-
-	# add Plots
-	# add EzXML
 
 	using Statistics
 	using Plots
